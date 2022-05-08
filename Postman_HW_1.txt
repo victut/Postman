@@ -1,4 +1,4 @@
-Ñîçäàòü çàïğîñû â Postman.
+Create request in Postman.
 
 Protocol: http
 IP: 162.55.220.72
@@ -13,8 +13,8 @@ request url params:
 
 response: 
 [
-    “Str”,
-    “Str”
+    â€œStrâ€,
+    â€œStrâ€
 ]
 
 ==================
